@@ -1,2 +1,3 @@
-# -BLM209-Programlama-Labaratuvar--I-OOP-Robot-
-[BLM209] Programlama Labaratuvarı-I (OOP Robot)
+# BLM209-Programlama-Labaratuvari-Object-Oriented-Robot-Project-
+
+BLM209-Programlama-Labaratuvari-Object-Oriented-Robot-Project-
